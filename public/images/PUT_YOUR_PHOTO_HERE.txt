@@ -1,0 +1,2 @@
+Put your photo here as: me.jpg
+(referenced in data/portfolio.js as profile.photo)
