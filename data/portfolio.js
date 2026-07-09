@@ -5,8 +5,9 @@ export const profile = {
   photo: '/images/me.jpg',
   social: {
     github: 'https://github.com/yourusername',
-    linkedin: 'https://linkedin.com/in/awoke',
-    twitter: 'https://twitter.com/yourusername',
+    linkedin: 'https://www.linkedin.com/in/awoke-guadie/',
+    twitter: 'https://twitter.com/awoke',
+    telegram: 'https://t.me/Awguadie21',
   },
 };
 
@@ -68,21 +69,24 @@ export const projects = [
 
 export const experience = [
   {
-    role: 'Senior Backend Developer',
-    company: 'Tech Company Inc.',
-    period: '2023 — Present',
-    description: 'Leading backend architecture for a SaaS platform serving 50k+ users, building Laravel-based microservices and REST APIs.',
+    role: 'Junior Software Developer',
+    company: 'Tewos Technology Solution',
+    period: '2023 — 2024',
+    description:
+      'Assisted in developing and maintaining business web applications using Laravel and MySQL. Fixed bugs, implemented new features, wrote clean and maintainable code, and collaborated with the development team to deliver reliable software solutions.',
   },
   {
     role: 'Full-Stack Developer',
-    company: 'Digital Agency',
-    period: '2021 — 2023',
-    description: 'Built and maintained client websites and web apps using Laravel, Vue.js, and MySQL. Improved deployment pipeline with CI/CD.',
+    company: 'Tewos Technology Solution',
+    period: '2024 — 2025',
+    description:
+      'Developed end-to-end web applications using Laravel, PHP, JavaScript, Bootstrap, and MySQL. Built responsive user interfaces, designed RESTful APIs, optimized application performance, and integrated third-party services to improve system functionality.',
   },
   {
-    role: 'Junior Developer',
-    company: 'Startup Studio',
-    period: '2019 — 2021',
-    description: 'Contributed to multiple early-stage products, learning modern PHP practices and agile development.',
+    role: 'Senior Full-Stack Developer',
+    company: 'Tewos Technology Solution',
+    period: '2025 — Present',
+    description:
+      'Architecting and leading the development of scalable enterprise applications while mentoring developers and ensuring code quality. Driving system optimization, database design, API development, security implementation, and agile project delivery to meet business objectives.',
   },
 ];
