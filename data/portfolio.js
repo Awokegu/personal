@@ -1,4 +1,4 @@
-export const profile = {
+export const profile ={
   name: 'AWOKE GUADIE',
   tagline: 'I build things for the web.',
   bio: "I'm a full-stack developer specializing in building (and occasionally designing) exceptional web applications with Laravel and modern JavaScript frameworks. Currently focused on crafting fast, accessible, and maintainable products.",
