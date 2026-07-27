@@ -35,7 +35,7 @@ export const projects = [
     image: '/images/projects/ecomerce.png',
     tags: ['Laravel', 'MySQL', 'Payments'],
     githubUrl: null,
-    liveUrl: null,
+    liveUrl: https://full-stack-e-commerce-website-w2z4.vercel.app/,
     featured: true,
   },
   {
